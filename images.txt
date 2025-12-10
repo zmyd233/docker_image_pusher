@@ -1,3 +1,1 @@
-alpine
-
 jjtanner/deepbrainnet:latest

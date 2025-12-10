@@ -1,1 +1,1 @@
-jjtanner/deepbrainnet:latest
+jjtanner/deepbrainnet

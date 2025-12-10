@@ -1,1 +1,2 @@
-mcp/playwright
+jjtanner/deepbrainnet
+jjtanner/dbn-preproc

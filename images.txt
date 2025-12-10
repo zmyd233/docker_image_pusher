@@ -1,1 +1,1 @@
-docker.io/jjtanner/deepbrainnet
+docker.io/jjtanner/deepbrainnet:amd64

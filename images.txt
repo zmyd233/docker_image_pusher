@@ -1,1 +1,1 @@
-docker.io/jjtanner/dbn-preproc:latest
+docker.io/jjtanner/deepbrainnet

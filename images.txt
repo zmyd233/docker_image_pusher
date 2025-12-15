@@ -1,1 +1,1 @@
-docker.io/jjtanner/deepbrainnet:amd64
+psadil/brainager:latest

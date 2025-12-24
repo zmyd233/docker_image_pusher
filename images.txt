@@ -1,1 +1,1 @@
-psadil/brainager:latest
+estenhl/pyment-preprocess-and-predict:1.0.0
